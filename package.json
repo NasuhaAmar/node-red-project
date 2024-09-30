@@ -17,7 +17,7 @@
     "express": "4.x",
     "node-red": ">= 1.0",
     "atob": "2.1.2",
-    "basic-auth-connect": "1.0.0",
+    "basic-auth-connect": "1.1.0",
 	"node-red-dashboard": "2.22.1"
   },
   
